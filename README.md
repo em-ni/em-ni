@@ -1,5 +1,5 @@
 # Hey! :wave:
-I am particularly interested in the union of 
+I am particularly interested in the intersection of 
 * :robot: Robotics
 * :eye: AI 
 * :joystick: Control Theory 
